@@ -13,11 +13,11 @@ body {
     background-color: firebrick;
 }
 
-.parallax {
+.bild {
     background: url(../bilder/thaimat.jpg) fixed no-repeat 50%;
 }
 
-.parallax-inner {
+.bild-inner {
     padding: 18% 0;
 }
 

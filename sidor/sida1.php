@@ -10,12 +10,12 @@
     <header class="header">
         <a href="../sidor/sida1.php" class="hem">Hem</a>
         <h1 id="Dawei">Dawei</h1>
-        <a href="../sidor/sida2.php" class="bokning">Bokning</a>
+        <a href="../sidor/sida2.php" class="bokning">Boka bord</a>
     </header>
 
 
-    <section class="parallax">
-        <div class="parallax-inner">
+    <section class="bild">
+        <div class="bild-inner">
             
         </div>
     </section>
