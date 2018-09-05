@@ -1,0 +1,146 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 2em;
+
+}
+
+#meny {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+}
+
+.parallax {
+    background-image: url("../bilder/thaimat.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#welcome {
+    text-align: center;
+    color: white;
+    padding: 25% 0;
+    font-size: 6em;
+    font-weight: bold;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    width: 25%;
+    padding-top: 5px;
+}
+
+.content {
+    height: auto;
+    background-color: white;
+    font-size: 36px
+}
+
+#about {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 60px;
+
+}
+
+#om {
+    font-size: 2em;
+    padding-bottom: 10px;
+}
+
+#jao {
+    font-size: 2em;
+    text-align: center;
+}
+
+#menu {
+    margin: auto;
+    width: 60%;
+    padding-top: 40px;
+}
+
+#background {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+#sigge {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    padding-top: 60px;
+}
+
+#footer {}
+
+input[type=text] {
+    width: 10 0%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=time] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.sosse {
+    width: 50%;
+    margin: auto;
+}
